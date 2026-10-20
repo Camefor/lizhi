@@ -55,6 +55,9 @@ https://pan.quark.cn/s/078eafd744b3
 
 https://drive.google.com/drive/folders/1Ykeigd5vNgf8SNRawTd1qiCYcqStSOm5?usp=sharing
 
+夸克云盘：
+https://pan.quark.cn/s/195465b2ee62
+
 该版本是独立的曲库，不影响上方原版资源的下载。
 
 整理者：Camefor ｜ GitHub 主页：https://github.com/Camefor/ ｜ 邮箱：xuehaq@gmail.com
@@ -76,7 +79,7 @@ https://drive.google.com/drive/folders/1Ykeigd5vNgf8SNRawTd1qiCYcqStSOm5?usp=sha
 
 ## 反馈
 
-部分歌曲是现场版，即兴的“B 言 B 语”比较多，吐字混乱，难免有听不清、对不上或歌词错误的地方。欢迎提 issue 指正，也可通过上方联系方式反馈，后续会慢慢完善。
+一部分歌曲是现场版，即兴的“B 言 B 语”比较多，吐字混乱，难免有听不清。时间轴对不上或歌词错误的地方。欢迎提 issue 指正，也可通过上方联系方式反馈，后续会慢慢完善。
 
 # 关于版权问题
 
